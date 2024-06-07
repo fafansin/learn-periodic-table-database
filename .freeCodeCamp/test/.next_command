@@ -530,3 +530,11 @@ git status
 git add .
 git status
 git add .
+git commit -m completed task
+git commit -m "completed task"
+git status
+git status
+git add periodic_table/
+git status
+git add periodic_table
+git status
