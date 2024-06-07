@@ -523,3 +523,10 @@ cd ..
 cd periodic_table/
 pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
 ls --color=auto
+cd ..
+git status
+git remote -v
+git status
+git add .
+git status
+git add .
