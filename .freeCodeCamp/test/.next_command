@@ -518,3 +518,8 @@ git add .
 git commit -m "feat: completed the desired output format"
 git status
 git branch
+pwd
+cd ..
+cd periodic_table/
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+ls --color=auto
